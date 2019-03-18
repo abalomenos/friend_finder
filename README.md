@@ -8,8 +8,8 @@ Friend Finder is an Express Wep App that takes in results from users' surveys, t
 * JavaScript
 * Node.js
 * Express
-* npm express
-* npm path
+* Heroku
+
 
 ### npm Module Dependencies
 express, path
